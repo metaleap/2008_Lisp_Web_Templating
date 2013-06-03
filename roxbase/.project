@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>roxbase</name>
+	<comment></comment>
+	<projects>
+		<project>roxutil</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>jasko.tim.lisp.lispNature</nature>
+	</natures>
+</projectDescription>

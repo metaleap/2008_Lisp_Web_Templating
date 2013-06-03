@@ -1,0 +1,5 @@
+(require 'asdf)
+(asdf:operate 'asdf:load-op 'roxutil)
+(asdf:operate 'asdf:load-op 'roxbase)
+(asdf:operate 'asdf:load-op 'roxsite)
+(roxsite::site-reset-live)
